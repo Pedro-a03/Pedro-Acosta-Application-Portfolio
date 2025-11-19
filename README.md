@@ -10,8 +10,8 @@ Certified Quality Engineer (CQE) and Quality Auditor (CQA) specializing in Medic
 
 Bitte wählen Sie die deutsche Version:
 
-➡️ [**Lebenslauf (CV) von Pedro Acosta**](/DE/2_Pedro_Acosta_Lebenslauf_DE.pdf)
-➡️ [Zusätzliche Zertifikate und Dokumente](/DE/1_Pedro_Acosta_Anschreiben_DE.pdf)
+➡️ [**Lebenslauf**](/DE/2_Pedro_Acosta_Lebenslauf_DE.pdf)
+➡️ [Anschreiben](/DE/1_Pedro_Acosta_Anschreiben_DE.pdf)
 ➡️ [Zusätzliche Zertifikate und Dokumente](/DE/3_Pedro_Acosta_Hochschulabschluss_DE.pdf)
 ---
 
@@ -20,7 +20,7 @@ Bitte wählen Sie die deutsche Version:
 Please select the English version:
 
 ➡️ [**Resume & Professional Summary**](/EN/2_Pedro_Acosta_Resume_EN.pdf)
-➡️ [Additional Certifications and Documents](/EN/01_Pedro_Acosta_Cover_Letter_EN.pdf)
+➡️ [Cover_Letter](/EN/01_Pedro_Acosta_Cover_Letter_EN.pdf)
 ➡️ [Additional Certifications and Documents](/DE/3_Pedro_Acosta_Hochschulabschluss_DE.pdf)
 ---
 
