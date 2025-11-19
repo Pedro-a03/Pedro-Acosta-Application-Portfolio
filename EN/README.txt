@@ -1,1 +1,1 @@
-
+Experienced Industrial Engineer (MSc) & ASQ-CQE/CQA. Specializes in Quality Assurance, project management, and continuous improvement. Proven success leading teams to boost efficiency while ensuring EU MDR/FDA compliance.
