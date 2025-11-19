@@ -1,6 +1,5 @@
-# Pedro-Acosta-Application-Portfolio
-Application portfolio for Quality Assurance, Project Management, Process Improvement &amp; SCM roles | EN &amp; DE versions
 # 🚀 Pedro Acosta | Application Portfolio
+Application portfolio for Quality Assurance, Project Management, Process Improvement &amp; SCM roles | EN &amp; DE versions
 
 [cite_start]**Experienced Quality & SCM Manager with EU Blue Card in Munich.** [cite: 5, 59]
 [cite_start]Certified Quality Engineer (CQE) and Quality Auditor (CQA) specializing in Medical Devices (ISO 13485, EU MDR, FDA). [cite: 10, 43, 44, 67]
