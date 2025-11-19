@@ -1,1 +1,1 @@
-
+Erfahrener Wirtschaftsingenieur (MSc) & ASQ-CQE/CQA. Spezialisiert auf Qualitätssicherung, Projektmanagement und kontinuierliche Verbesserung. Steigert die Effizienz und gewährleistet die Einhaltung von EU-MDR/FDA-Vorschriften.
