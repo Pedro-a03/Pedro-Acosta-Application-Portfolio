@@ -20,7 +20,7 @@ Bitte wählen Sie die deutsche Version:
 Please select the English version:
 
 ➡️ [**Resume & Professional Summary**](/EN/2_Pedro_Acosta_Resume_EN.pdf)
-➡️ [Cover_Letter](/EN/01_Pedro_Acosta_Cover_Letter_EN.pdf)
+➡️ [Cover Letter](/EN/1_Pedro_Acosta_Cover_Letter_EN.pdf)
 ➡️ [Additional Certifications and Documents](/DE/3_Pedro_Acosta_Hochschulabschluss_DE.pdf)
 ---
 
